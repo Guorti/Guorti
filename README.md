@@ -16,7 +16,7 @@
 
 ## 📫 How to Reach Me
 - **Email:** gustavo.ortiz7319@gmail.com  
-- **LinkedIn:** [linkedin.com/in/guorti](https://www.linkedin.com/in/guorti) *(placeholder, add your link if available)*  
+- **LinkedIn:** [linkedin.com/in/gustavo-ortiz-loaiza](https://www.linkedin.com/in/gustavo-ortiz-loaiza)
 
 ## ⚡ Fun Fact
 I enjoy solving algorithmic challenges and exploring new technologies, always seeking innovative ways to bridge **software engineering** with **real-world impact**.
